@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "data": [
+        {
+            "id": 123,
+            "username": "john_doe",
+            "email": "john.doe@example.com"
+        },
+        {
+            "id": 124,
+            "username": "jane_smith",
+            "email": "jane.smith@example.com"
+        }
+    ]
+}
